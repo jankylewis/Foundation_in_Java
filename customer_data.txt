@@ -1,0 +1,6 @@
+Rectangle;30
+Relms;20
+Julian;12
+Geogre;30
+Edward;8
+Ashley;22
